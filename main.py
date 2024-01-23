@@ -1,0 +1,3 @@
+import cropImage
+
+cropImage.cropImage()
